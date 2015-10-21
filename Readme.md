@@ -1,1 +1,1 @@
-New Build Status:
+Build Status:
